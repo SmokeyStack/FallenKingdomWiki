@@ -36,7 +36,7 @@ title: Home
                         <div style="display: inline-block; margin: 0 0.5em 0 0.5em; vertical-align: top;">
                             <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
                                 <a href="https://github.com/SmokeyStack" target="_blank" title="Coming Soon">
-                                    <img alt="Coming Soon" src="/assets/images/MCPEDL.png" decoding="async" height="64"/>
+                                    <img alt="Coming Soon" src="/assets/images/mcpedl.png" decoding="async" height="64"/>
                                 </a>
                                 <br />
                                 <b><a href="https://github.com/SmokeyStack" target="_blank" title="Github">Coming Soon</a></b>
