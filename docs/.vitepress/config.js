@@ -12,7 +12,7 @@ module.exports = {
 		docsDir: 'docs',
 		lastUpdated: 'Last Updated',
 		sidebar: [
-			{ text: 'Entities', link: '/Entities/Index' }
+			{ text: 'Entities', link: '/Entities/index' }
 		]
 	}
 }
