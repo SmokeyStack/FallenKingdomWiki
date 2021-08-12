@@ -12,6 +12,7 @@ module.exports = {
 		docsDir: 'docs',
 		lastUpdated: 'Last Updated',
 		sidebar: [
+			{ text: 'Changelogs', link: '/changelogs/index' },
 			{ text: 'Entities', link: '/Entities/index' },
 			{ text: 'Blocks', link: '/Blocks/index' }
 		]
