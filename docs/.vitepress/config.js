@@ -13,8 +13,8 @@ module.exports = {
 		lastUpdated: 'Last Updated',
 		sidebar: [
 			{ text: 'Changelogs', link: '/changelogs/index' },
-			{ text: 'Entities', link: '/Entities/index' },
-			{ text: 'Blocks', link: '/Blocks/index' }
+			{ text: 'Entities', link: '/entities/index' },
+			{ text: 'Blocks', link: '/blocks/index' }
 		]
 	}
 }
