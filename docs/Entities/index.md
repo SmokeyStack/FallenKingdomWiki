@@ -41,11 +41,11 @@ title: Entities
     <b><a href="https://github.com/SmokeyStack" target="_blank" title="Github">Skeleguard</a></b>
 </div>
 <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
-    <a href="https://github.com/SmokeyStack" target="_blank" title="Coming Soon">
-        <img alt="Coming Soon" src="/assets/images/mystical_merchant_preview.png" decoding="async" height="64"/>
+    <a href="./skelegun" target="_blank" title="Skelegun">
+        <img alt="Skelegun" src="/assets/images/mystical_merchant_preview.png" decoding="async" height="64"/>
     </a>
     <br />
-    <b><a href="https://github.com/SmokeyStack" target="_blank" title="Github">Skelegun</a></b>
+    <b><a href="./skelegun" target="_blank" title="Skelegun">Skelegun</a></b>
 </div>
 <div style="display: inline-block; padding: 0 0.5em; font-size: 90%; vertical-align: top;">
     <a href="https://github.com/SmokeyStack" target="_blank" title="Coming Soon">
