@@ -51,9 +51,26 @@ Mystical merchants do not drop anything
 |   64  | Enchanted Book  |     1    |           1           |  10|
 |   64  | Lantern         |     1    |           10          |  1 |
 |   64  | Enchanted Book  |     1    |           1           |  10|
-|   64  | Glass           |     1    |           10          |  1 |
+|   64  | Glass           |     4    |           10          |  1 |
 |   64  | Enchanted Book  |     1    |           1           |  10|
 |   64  | Clock           |     1    |           10          |  1 |
 |   64  | Compass         |     1    |           10          |  1 |
 |   64  | Enchanted Book  |     1    |           1           |  10|
 |   64  | Name Tag        |     1    |           10          |  1 |
+|   4   | Iron Boots      |     1    |           10          |  1 |
+|   7   | Iron Leggings   |     1    |           10          |  1 |
+|   5   | Iron Helmet     |     1    |           10          |  1 |
+|   9   | Iron Chestplate |     1    |           10          |  1 |
+|   36  | Bell            |     1    |           10          |  1 |
+|   4   | Iron Chestplate |     1    |           10          |  1 |
+|   1   | Iron Helmet     |     1    |           10          |  1 |
+|   5   | Shield          |     1    |           10          |  1 |
+|   64  | Diamond Leggings|     1    |           1           |  10|
+|   64  | Diamond Boots   |     1    |           1           |  10|
+|   64   | Diamond Chestplate |     1    |           1          |  10 |
+|   64   | Diamond Helmet     |     1    |           1          |  10 |
+|   1   | Stone Axe |     1    |           10          |  1 |
+|   1   | Stone Shovel |     1    |           10          |  1 |
+|   1   | Stone Pickaxe |     1    |           10          |  1 |
+|   1   | Stone Hoe |     1    |           10          |  1 |
+|   36  | Bell            |     1    |           10          |  1 |
